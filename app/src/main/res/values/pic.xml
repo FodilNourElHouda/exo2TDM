@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="images">
+        <item>@drawable/livre1</item>
+        <item>@drawable/livre2</item>
+        <item>@drawable/livre3</item>
+        <item>@drawable/livre4</item>
+
+
+    </integer-array>
+    <integer-array name="images1">
+        <item>@drawable/ecr1</item>
+        <item>@drawable/ecr2</item>
+        <item>@drawable/ecr3</item>
+        <item>@drawable/ecr4</item>
+    </integer-array>
+</resources>
