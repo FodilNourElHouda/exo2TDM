@@ -39,10 +39,10 @@ class BlankFragment : Fragment() {
         val v = inflater.inflate(R.layout.fragment_blank, container, false)
 
 
-        var array = arrayOf( LivreN("Demain",R.drawable.livre1,"1"),
-            LivreN("L'alchimiste",R.drawable.livre2,"2"),
-            LivreN("Les Hirondelles",R.drawable.livre3,"3"),
-            LivreN("Savoir dire non",R.drawable.livre4,"4"))
+        var array = arrayOf( LivreN("Demain",R.drawable.ecr1,"1"),
+            LivreN("L'alchimiste",R.drawable.ecr2,"2"),
+            LivreN("Les Hirondelles",R.drawable.ecr3,"3"),
+            LivreN("Savoir dire non",R.drawable.ecr4,"4"))
 
 
 

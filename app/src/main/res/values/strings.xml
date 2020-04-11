@@ -16,11 +16,10 @@
     </string-array>
 
     <string-array name="planets_array1">
-        <item>"Emma et Matthew font connaissance grâce à Internet et bientôt, leurs échanges de mails les laissent penser qu’ils ont enfin droit au bonheur. Désireux de se rencontrer, ils se donnent rendez-vous dans un petit restaurant. Le même jour à la même heure, Ils sont conduits à la même table et pourtant… ils ne se croiseront jamais"</item>
-        <item>"L'histoire est celle de Santiago, un jeune berger espagnol qui par deux fois, a fait le même rêve, celui de se rendre au pied des pyramides d'Egypte pour y trouver un certain trésor."</item>
-        <item>" Les Hirondelles de Kaboul raconte l'histoire de deux couples afghans sous le régime des Talibans. Celle d'un geôlier usé et amer, Atiq, et de son épouse malade Mussarat. Celle de Zunaira, brillante ancienne magistrate et de son mari déboussolé, Moshen. "Nous avons tous été tués. Il y a si longtemps que nous l'avons oublié"</item>
-        <item>" Chaque jour, nous manquons des occasions de dire non. Céder aux caprices de son enfant, accepter un déjeuner auquel on n'avait aucune envie de participer, se laisser envahir par son travail, sa famille, ses amis... La peur d'être rejeté, le désir de ne pas décevoir nous conduisent à cette autocensure qui entame notre énergie quotidienne. "</item>
-
+        <item>"Emma et Matthew font connaissance grâce à Internet et bientôt, leurs échanges de mails les laissent penser qu\’ils ont enfin droit au bonheur. Désireux de se rencontrer, ils se donnent rendez-vous dans un petit restaurant. Le même jour à la même heure, Ils sont conduits à la même table et pourtant… ils ne se croiseront jamais"</item>
+        <item>"L\'histoire est celle de Santiago, un jeune berger espagnol qui par deux fois, a fait le même rêve, celui de se rendre au pied des pyramides d\'Egypte pour y trouver un certain trésor."</item>
+        <item>" Les Hirondelles de Kaboul raconte l\'histoire de deux couples afghans sous le régime des Talibans. Celle d\'un geôlier usé et amer, Atiq, et de son épouse malade Mussarat. Celle de Zunaira, brillante ancienne magistrate et de son mari déboussolé, Moshen. Nous avons tous été tués. Il y a si longtemps que nous l\'avons oublié"</item>
+        <item>" Chaque jour, nous manquons des occasions de dire non. Céder aux caprices de son enfant, accepter un déjeuner auquel on n\'avait aucune envie de participer, se laisser envahir par son travail, sa famille, ses amis La peur d\'être rejeté, le désir de ne pas décevoir nous conduisent à cette autocensure qui entame notre énergie quotidienne."</item>
     </string-array>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
